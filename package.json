@@ -1,0 +1,19 @@
+{
+  "name": "devops-project",
+  "version": "1.0.0",
+  "description": "Repository for SD methodologies class",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chadyka/devops-project.git"
+  },
+  "author": "Jakab Ádám",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chadyka/devops-project/issues"
+  },
+  "homepage": "https://github.com/Chadyka/devops-project#readme"
+}
